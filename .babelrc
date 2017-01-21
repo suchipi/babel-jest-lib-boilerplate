@@ -1,0 +1,10 @@
+{
+  "presets": ["latest"],
+  "plugins": [
+    "syntax-object-rest-spread",
+    "transform-object-rest-spread",
+    "syntax-class-properties",
+    "transform-class-properties",
+    "transform-runtime"
+  ]
+}
